@@ -20,7 +20,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/38932988",
+			url: "https://space.bilibili.com/",
 			showName: false,
 		},
 		{
@@ -29,12 +29,12 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/ddhjxnow",
 			showName: false,
 		},
-		{
-			name: "Email",
-			icon: "fa6-solid:envelope",
-			url: "ddhjxnow@gmail.com",
-			showName: false,
-		},
+		//{
+		//	name: "Email",
+		//	icon: "fa6-solid:envelope",
+		//	url: "ddhjxnow@gmail.com",
+		//	showName: false,
+		//},
 		{
 			name: "RSS",
 			icon: "fa6-solid:rss",
