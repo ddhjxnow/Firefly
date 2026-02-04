@@ -5,10 +5,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "/assets/images/avatar.webp",
 
 	// 名字
-	name: "Firefly",
+	name: "ddhjxnow",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "又是无所事事的一天",
 
 	// 链接配置
 	// 已经预装的图标集：fa6-brands，fa6-regular，fa6-solid，material-symbols，simple-icons
@@ -26,13 +26,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/ddhjxnow",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "ddhjxnow@gmail.com",
 			showName: false,
 		},
 		{
